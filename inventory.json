@@ -1,0 +1,51 @@
+{
+  "cars": [{
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": "2006",
+    "price": "8999",
+    "color": "Tomato",
+    "purchased": false,
+    "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "Toyota",
+    "model": "Matrix",
+    "year": "2005",
+    "price": "7000",
+    "color": "Silver",
+    "purchased": false,
+    "description": "This is a less-than-immaculate 2005 Toyota Matrix with only 100000 miles on it. Cloth seats, power everything."
+  }, {
+    "make": "Honda",
+    "model": "Accord",
+    "year": "2009",
+    "price": "9999",
+    "color": "Green",
+    "purchased": true,
+    "description": "This is an immaculate 2009 Honda Accord with only 75000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "Acura",
+    "model": "MDX",
+    "year": "2007",
+    "price": "13999",
+    "color": "Blue",
+    "purchased": false,
+    "description": "This is an immaculate 2007 Acura MDX with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "Mitsubishi",
+    "model": "Gallant",
+    "year": "1991",
+    "price": "90",
+    "color": "Gold",
+    "purchased": false,
+    "description": "This is an ancient 1991 Mitsubishi Gallant with 200000 miles on it. Cloth seats, power everything."
+  }, {
+    "make": "Pontiac",
+    "model": "Bonneville",
+    "year": "1994",
+    "price": "150",
+    "color": "Navy",
+    "purchased": true,
+    "description": "This is a beatup 1994 Pontiac Bonneville with 250000 miles on it. Stained seats, power still works."
+  }]
+}
